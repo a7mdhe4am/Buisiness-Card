@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  flex-flow: column wrap;
+  background-color: #23252C;
+}
+
+
+.my-photo {
+  display: flex;
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 10px 10px;
+}
