@@ -1,6 +1,6 @@
 function Footer() {
     return(
-        <div>
+        <div className="footer-container">
             <a href="#"><img src="../images/Facebook Icon.png"/></a>
             <a href="#"><img src="../images/GitHub Icon.png"/></a>
             <a href="#"><img src="../images/Instagram Icon.png"/></a>

@@ -1,9 +1,6 @@
 import Photo from "../componentes/photo"
-import Name from "../componentes/Name"
-import Interest from "../componentes/Interest"
+import Content from "../componentes/Content"
 import Footer from "../componentes/Footer"
-import Buttons from "../componentes/Buttons"
-import About from "../componentes/About"
 
 
 
@@ -12,10 +9,7 @@ function App() {
   return(
     <div className="container">
       <Photo />
-      <Name />
-      <Buttons />
-      <About />
-      <Interest />
+      <Content />
       <Footer />
     </div>
   )
